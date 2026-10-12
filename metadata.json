@@ -1,0 +1,6 @@
+{
+  "name": "FindIt Campus",
+  "description": "Smart Lost & Found Management System with verified recovery, secure user encryption, and privacy-preserving claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
